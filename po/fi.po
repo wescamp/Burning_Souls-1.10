@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Burning_Souls-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-10-19 22:35-0400\n"
 "PO-Revision-Date: 2011-10-19 22:35-0400\n"
